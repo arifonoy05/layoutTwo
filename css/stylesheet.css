@@ -8,14 +8,14 @@ body{
     
 }
 .header-section .logo{
-    color: rgb(185, 185, 185);    
+    color: white;    
     background: rgba(126, 125, 125, 0.219);
     float: left;
     width: 10%;
     height: 100px;
 }
 .header-section .header-ad{
-    color: rgb(185, 185, 185);
+    color: white;
     height: 100px;
     width: 90%;
     background: rgba(126, 125, 125, 0.219);

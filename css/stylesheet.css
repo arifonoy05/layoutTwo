@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+}
+body{
+    background: url(../images/Background-X-Repeat2.jpg) no-repeat;
+    background-size: cover;
+    font-family: 'Spectral SC', serif;
+    
+}
+.header-section .logo{
+    color: rgb(185, 185, 185);    
+    background: rgba(126, 125, 125, 0.219);
+    float: left;
+    width: 10%;
+    height: 100px;
+}
+.header-section .header-ad{
+    color: rgb(185, 185, 185);
+    height: 100px;
+    width: 90%;
+    background: rgba(126, 125, 125, 0.219);
+    float: left;
+}
+.container{
+    float: left;
+    height: 700px;
+    width: 100%;
+}
+.left{
+    color: white;
+    height: 100%;
+    width: 20%;
+    background: rgba(32, 32, 32, 0.445);
+    float: left;
+}
+.center{
+    height: 100%;
+    width: 60%;
+    float: left;
+}
+.right{
+    color: white;
+    height: 100%;
+    width: 20%;
+    background: rgba(32, 32, 32, 0.445);
+    float: left;
+}
+.pre-body{
+    color: white;
+    background: rgba(126, 125, 125, 0.548);
+    height: 20%;
+}
+.body{
+    color: white;
+    height: 60%;
+}
+.post-body{
+    color: white;    
+    background: rgba(126, 125, 125, 0.548);
+    height: 20%;
+}
+.footer-section{
+    color: rgb(185, 185, 185);   
+    background: rgba(126, 125, 125, 0.219);
+    height: 100px;
+    width: 100%;
+    float: right;
+}
